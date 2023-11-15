@@ -14,6 +14,11 @@ PyCharm also makes it possible for the user to run the Python program from withi
 ## Introduction 
 Implement an algorithm to route delivery trucks that will allow to meet all delivery constraints while traveling under 140 miles. 
 
+## Scenario 
+The Western Governors University Parcel Service (WGUPS) needs to determine an effi cient route and deliverydistribution for their Daily Local Deliveries (DLD) because packages are not currently being consistently delivered bytheir promised deadline.
+The Salt Lake City DLD route has three trucks, two drivers, and an average of 40 packages to deliver each day. Each package has specific criteria and delivery requirements.
+
+
 ## Constraints 
 * Each truck can carry a maximum of 16 packages, and the ID number of each package is unique.
 * The trucks travel at an average speed of 18 miles per hour and have an infi nite amount of gas with no need to stop.
